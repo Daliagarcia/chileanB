@@ -1,0 +1,38 @@
+.sectionProductos{
+  background-color: $burguer-dark;
+}
+
+.card{
+  border: 3px solid  $burguer-white;
+}
+
+.card p{
+  color: $burguer-cyan;
+}
+
+.sectionFooter{
+    background-color: #000000;
+}
+
+.sectionFooter i{
+  color: $white;
+}
+
+.sectionFooter a{
+  color: $white;
+  text-decoration: none;
+}
+
+footer i{
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+footer {
+  padding: 20px;
+}
+
+.sectionMapa{
+  background-color: $burguer-cyan;
+}

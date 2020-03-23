@@ -2,10 +2,12 @@
   text-align: right;
   background-color: #00A2AF;
   padding: 0px;
+  color: $white;
 }
 
 .telefonos i{
   margin-right: 5px;
+  color: $white;
 }
 
 .navbar img{
@@ -18,7 +20,7 @@ border-bottom: 2px solid  $burguer-cyan;
 }
 
 .nav-item{
-  font-family: $kreon;
-  font-weight: $bold;
+  font-family: $mogra;
+  font-weight: $regular;
   font-size: $medium;
 }

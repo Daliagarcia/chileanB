@@ -10063,6 +10063,15 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 20px;
 }
 
+.combos {
+  background: url("../../assets/images/gravel.png");
+  background-repeat: repeat;
+}
+
+.promociones {
+  background-color: #3C3837;
+}
+
 .sectionFooter {
   background-color: #000000;
 }

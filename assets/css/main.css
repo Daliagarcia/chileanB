@@ -9918,27 +9918,24 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
 }
 
-.sectionHeader {
-  background-image: url("../../assets/images/General.jpg");
+/*.sectionHeader{
+  background-image: url('../../assets/images/General.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 75vh;
-  /*
-    &--fondo{
-      background: linear-gradient(
-      rgba(25, 25, 25, 0.7),
-      rgba(0,0,0,0.8)
-      ),;
-      min-height: 75vh;
-    }*/
-}
-
-.sectionHeader--titulo {
+/*
+  &--fondo{
+    background: linear-gradient(
+    rgba(25, 25, 25, 0.7),
+    rgba(0,0,0,0.8)
+    ),;
+    min-height: 75vh;
+  }*/
+/*.sectionHeader--titulo{
   text-align: center;
   padding-top: 18%;
-}
-
+}*/
 .sectionProductos {
   background-color: #3C3837;
 }
